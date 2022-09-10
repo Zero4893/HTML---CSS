@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(255, 0, 0);
+
+}
+h2 {
+    color: aqua;
+}
+
+p {
+    color: rgb(0, 119, 255);
+}
+
+header {
+    color: darkorange;
+}
+
+aside {
+    color: darkmagenta;
+}
+
+footer {
+    color: fuchsia;
+}
+body { background-color: blueviolet;
+    font-family: 'Comic Neue', cursive;
+}
