@@ -1,13 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    background-image: url(/imagens/rosapastel.jpg);
 }   
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 40px;
-    color: darkblue;
+    color: rgb(0, 0, 0);
     letter-spacing: -0,05;
     text-shadow: 1px 1px 1px #666;
 }
@@ -16,7 +17,7 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 20px;
-    color: chocolate;
+    color: rgb(0, 0, 0);
     text-shadow: 1px 1px 1px #666;
 
 }
@@ -34,3 +35,11 @@ footer {
     height: 350px;
 }
 
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    letter-spacing: -0,05;
+    text-shadow: 1px 1px 1px #666;
+}
